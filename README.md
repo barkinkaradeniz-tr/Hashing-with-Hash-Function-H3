@@ -18,6 +18,6 @@ hq(53) = hq(00110101)
 The project was written in MIPS instruction set architecture.
 
 ## Execution
-The q array, seed and key already initialized in line 18, 19 and 20. Feel free to change or play with them. 
+The q array, seed and key already initialized in line 8, 9 and 10. Feel free to change or play with them. 
 
 Personally I developed and executed the project with the IDE Mars.
