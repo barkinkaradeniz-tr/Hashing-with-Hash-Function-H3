@@ -5,6 +5,7 @@ To map a larger value range to a smaller value range, hash functions are used. I
 
 ## Example for Calculation of the Hash Value
 q := [110, 001, 111, 101, 011, 100, 001, 000]
+
 hq(53) = hq(00110101)
 
 = q(0) ⊕ q(2) ⊕ q(4) ⊕ q(5)
