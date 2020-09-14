@@ -13,3 +13,11 @@ hq(53) = hq(00110101)
 = 110 ⊕ 111 ⊕ 011 ⊕ 100
 
 = 110 = 6 (decimal)
+
+## About Project
+The project was written in MIPS instruction set architecture.
+
+## Execution
+The q array, seed and key already initialized in line 18, 19 and 20. Feel free to change or play with them. 
+
+Personally I developed and executed the project with the IDE Mars.
